@@ -1,7 +1,8 @@
 Rules:
 =========
 
-
+| Rule |
+|:------:|
 | 1. If you are on the waitlist, you must chat once every 2 hours or more, otherwise our bot will remove you from the waitlist. |
 | 2. Keep your videos somewhat appropriate and Safe For Work (SFW). NSFW content includes: nudity, gore, etc. |
 | 3. Autojoin should not be used unless you are still being active in chat. |
