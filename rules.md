@@ -2,8 +2,8 @@ Rules:
 =========
 
 <ol>
-<li> If you are on the waitlist, you must chat once every 2 hours or more, otherwise our bot will remove you from the waitlist. </li>
 <li> Keep your videos somewhat appropriate and Safe For Work (SFW). NSFW content includes: nudity, gore, etc. </li>
+<li> When on the waitlist, you must chat once every 2 hours, or the bot will remove you from the waitlist. </li>
 <li> Autojoin should not be used unless you are still being active in chat. </li>
 <li> If a song is longer than 10 minutes it will automatically be skipped. </li>
 <li> Do not promote and/or share links for other communities in chat! </li>
