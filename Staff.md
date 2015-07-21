@@ -1,6 +1,6 @@
 # Any EDM: Trap, House, etc!
 
-# Staff:
+# The Staff:
 
 ### Host
 ###### QTπ
