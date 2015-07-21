@@ -69,3 +69,7 @@
 ##### anything with deez nuts, fuck that shit yo
 
 ##### finnb is GOD
+
+##### all that ancient shit that the co=hosts and managers play on shuffle days
+
+##### all that australian shit that @ureadmyname plays
