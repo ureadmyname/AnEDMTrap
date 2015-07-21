@@ -6,5 +6,12 @@ Staff:
 
 Host
 ----
-|:-:|
-|QTπ|
+QTπ
+
+Co-Hosts
+--------
+Cowdeer
+Ureadmyname
+
+Managers
+--------
