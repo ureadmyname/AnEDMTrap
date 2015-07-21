@@ -11,43 +11,64 @@
 ###### Ureadmyname
 
 ### Managers
-AriaOfTheElements
+###### AriaOfTheElements
 
-Austin0315
+###### Austin0315
 
-Cepheus
+###### Cepheus
 
-DJ Surprise
+###### DJ Surprise
 
-George Jordan
+###### George Jordan
 
-PandaPropaganda
+###### PandaPropaganda
 
-qtbot
+###### qtbot
 
-sharknice
+###### sharknice
 
-sharlike
+###### sharlike
 
-xTres12
+###### xTres12
 
 ### Bouncers
-Ancat
+###### Ancat
 
-DiamondVoid
+###### DiamondVoid
 
-dimdamian
+###### dimdamian
 
-Dєlayed
+###### Dєlayed
 
-Jazzywinks
+###### Jazzywinks
 
-LAXDEFENDER-28
+###### LAXDEFENDER-28
 
-Phoenix Of Fire
+###### Phoenix Of Fire
 
-reojin
+###### reojin
 
-SirBoss
+###### SirBoss
 
-ℱɪɪø
+###### ℱɪɪø
+
+### Resident Djs
+###### aviloSC2
+
+###### Babycakeswaffle
+
+###### Ehere (Eric)
+
+###### finnb
+
+###### grumow
+
+###### I Is Velocity
+
+###### Jayboymuir
+
+###### VinylAngel
+
+###### waterhorse
+
+###### ıllıllı ΛLXX ıllıllı
