@@ -1,21 +1,16 @@
-Any EDM: Trap, House, etc!
-===========================
+# Any EDM: Trap, House, etc!
 
-Staff:
-------
+# Staff:
 
-Host
-----
+### Host
 QTπ
 
-Co-Hosts
---------
+### Co-Hosts
 Cowdeer
 
 Ureadmyname
 
-Managers
---------
+### Managers
 AriaOfTheElements
 
 Austin0315
@@ -36,8 +31,7 @@ sharlike
 
 xTres12
 
-Bouncers
---------
+### Bouncers
 Ancat
 
 DiamondVoid
