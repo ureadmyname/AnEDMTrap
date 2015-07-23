@@ -123,3 +123,9 @@
 ##### Please hurry. My spaghetti is all hard. My girlfriend and her parents are coming over and I am meeting them for the first time. I am making spaghetti for them and it says I need to boil 4 quarts of water, but I don't have any measuring cups. All I have is 1 tablespoon measuring spoons. I thought it was 4 tablespoons in a quart so I put in 16 but after I cooked my noodles for 10 minutes like the package said my spaghetti is still stiff. Please hurry they will be here any minute. I don't want to screw this up she is hot, nice and funny and I told her parents I'm a really good cook and won some competitions but I was lying. Please help! How do I fix the spaghetti?
 
 ##### My Grandma Robert's Genitals 
+
+##### black light
+
+##### krewella- come and get it aND ALL DAMN REMIXES
+
+##### LALAL NEXT EPISODE DODOOODOOODOOO SMOKE WEED
