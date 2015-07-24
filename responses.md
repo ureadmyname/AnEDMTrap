@@ -151,3 +151,5 @@
 ##### cowdeer is just out of hand. He declares it shuffle when ever he wants. 
 
 ##### cowdeer slipped a roofie in my beer in the community
+
+##### Cunt Chupa - i'M A CUNTATRAOZ
