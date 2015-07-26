@@ -31,13 +31,41 @@ No. Ref|Link:                                          |Song Name:              
 27.    |https://www.youtube.com/watch?v=CES32EOxiyw    |DJ Snake & Lil Jon - Turn Down For What (Onderkoffer Remix)  |
 28.    |https://www.youtube.com/watch?v=HMUDVMiITOU    |DJ Snake, Lil Jon - Turn Down for What                       |
 29.    |https://www.youtube.com/watch?v=eHz2w1cUjjE    |Waka Flocka - No Handz (CRNKN Remix)                         |
-
-
-30.    |https://www.youtube.com/watch?v=YJVmu6yttiw    |Skrillex - Bangarang feat. Sirah                             |
-31.    |https://www.youtube.com/watch?v=YJVmu6yttiw    |Skrillex - Bangarang feat. Sirah                             |
-32.    |https://www.youtube.com/watch?v=YJVmu6yttiw    |Skrillex - Bangarang feat. Sirah                             |
-33.    |https://www.youtube.com/watch?v=YJVmu6yttiw    |Skrillex - Bangarang feat. Sirah                             |
-34.    |https://www.youtube.com/watch?v=YJVmu6yttiw    |Skrillex - Bangarang feat. Sirah                             |
-35.    |https://www.youtube.com/watch?v=YJVmu6yttiw    |Skrillex - Bangarang feat. Sirah                             |
-36.    |https://www.youtube.com/watch?v=YJVmu6yttiw    |Skrillex - Bangarang feat. Sirah                             |
-
+30.    |https://www.youtube.com/watch?v=jAqO-BlCwJ8    |Bobby Shmurda - Hot Nigga (Caked Up Remix)                   |
+31.    |https://www.youtube.com/watch?v=q6-ZGAGcJrk    |Spooky Scary Skeletons (Remix)                               |
+32.    |https://www.youtube.com/watch?v=nEt1bKGlCpM    |Virtual Riot - Idols (EDM Mashup)                            |
+33.    |https://www.youtube.com/watch?v=vZyenjZseXA    |Virtual Riot - Idols (EDM Mashup)                            |
+34.    |https://www.youtube.com/watch?v=5IOVkstxkdE    |Virtual Riot - Energy Drink                                  |
+35.    |https://www.youtube.com/watch?v=7eZIbmq5Jiw    |Virtual Riot - Energy Drink                                  |
+36.    |https://www.youtube.com/watch?v=VtKbiyyVZks    |Itro & Tobu - Cloud 9                                        |
+37.    |https://www.youtube.com/watch?v=EP625xQIGzs    |Tobu - Hope                                                  |
+38.    |https://www.youtube.com/watch?v=__CRWE-L45k    |Electro-Light - Symbolism                                    |
+39.    |https://www.youtube.com/watch?v=gWapX12pHPQ    |DJ ASSASS1N - Frag Out                                       |
+40.    |https://www.youtube.com/watch?v=CzCjMbYZWN8    |TheFatRat - Unity                                            |
+41.    |https://www.youtube.com/watch?v=n8X9_MgEdCg    |TheFatRat - Unity                                            |
+42.    |https://www.youtube.com/watch?v=ShLTI5xgoFA    |TheFatRat - Unity                                            |
+43.    |https://www.youtube.com/watch?v=rVbfJ9rseMw    |TheFatRat - Unity                                            |
+44.    |https://www.youtube.com/watch?v=Bamvg4Icmi0    |TheFatRat - Windfall                                         |
+45.    |https://www.youtube.com/watch?v=jqkPqfOFmbY    |TheFatRat - Windfall                                         |
+46.    |https://www.youtube.com/watch?v=yw6dJm2zYN0    |TheFatRat - Windfall                                         |
+47.    |https://www.youtube.com/watch?v=RH4EhRO6DFQ    |TheFatRat - Windfall                                         |
+48.    |https://www.youtube.com/watch?v=ZyTDO73XWp0    |TheFatRat - Windfall                                         |
+49.    |https://www.youtube.com/watch?v=qp8hEOm5HxM    |TheFatRat - Windfall                                         |
+50.    |https://www.youtube.com/watch?v=f7RKOP87tt4    |Meg & Dia - Monster (DotEXE Remix)                           |
+51.    |https://www.youtube.com/watch?v=szj59j0hz_4    |Galantis - Runaway (U & I)                                   |
+52.    |https://www.youtube.com/watch?v=5XR7naZ_zZA    |Galantis - Runaway (U & I)                                   |
+53.    |https://www.youtube.com/watch?v=ih2xubMaZWI    |OMFG - Hello                                                 |
+54.    |https://www.youtube.com/watch?v=XRgiNUtJurk    |OMFG - Hello                                                 |
+55.    |https://www.youtube.com/watch?v=HHkEdCm2t8s    |OMFG - Hello                                                 |
+56.    |https://www.youtube.com/watch?v=0iFR754-E98    |Krewella- Come and Get It                                    |
+57.    |https://www.youtube.com/watch?v=2LeKMGwNaqs    |Krewella - Come And Get It (Razihel Remix)                   |
+58.    |https://www.youtube.com/watch?v=85UQsB9odZQ    |Krewella - Come And Get It (Razihel Remix)                   |
+59.    |https://www.youtube.com/watch?v=A4QJkPg9Lc0    |Krewella- Come and Get It                                    |
+60.    |https://www.youtube.com/watch?v=_8VWSC281j4    |Krewella - Come And Get It (Razihel Remix)                   |
+61.    |https://www.youtube.com/watch?v=RNuUgbUzM8U    |DJ Fresh - Gold Dust                                         |
+62.    |https://www.youtube.com/watch?v=PEbJ4qLiMu0    |DJ Fresh - Gold Dust (Flux Pavilion Remix)                   |
+63.    |https://www.youtube.com/watch?v=HQPAN5dGbmc    |DJ Fresh - Gold Dust                                         |
+64.    |https://www.youtube.com/watch?v=15C75nLdsdI    |OMFG - Hello                                                 |
+65.    |https://www.youtube.com/watch?v=n4tK7LYFxI0    |Spektrem - Shine                                             |
+66.    |https://www.youtube.com/watch?v=-WuU-ZhjvOc    |DJ Snake & Lil Jon - Turn Down For What (Onderkoffer Remix)  |
+_____________________________________________________________________________________________________________________|
