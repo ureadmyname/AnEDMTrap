@@ -1,0 +1,22 @@
+https://github.com/ureadmyname/basicBot-customization/blob/master/ExampleOPlist.json
+_________________________________________________________________________________________________________________________
+No. Ref|Link:                                          |Song Name:                                                      |
+       |                                               |                                                                |
+1.     |https://www.youtube.com/watch?v=pVLmZMjxfjw    |Eiffel 65 - Blue (KNY Factory Remix)                            |
+2.     |https://www.youtube.com/watch?v=68ugkg9RePc    |Eiffel 65 - Blue (KNY Factory Remix)                            |
+3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
+3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
+3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
+3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
+3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
+3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
+3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
+3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
+3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
+3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
+3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
+3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
+3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
+3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
+3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
+3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
