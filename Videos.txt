@@ -1,22 +1,32 @@
 https://github.com/ureadmyname/basicBot-customization/blob/master/ExampleOPlist.json
-_________________________________________________________________________________________________________________________
-No. Ref|Link:                                          |Song Name:                                                      |
-       |                                               |                                                                |
-1.     |https://www.youtube.com/watch?v=pVLmZMjxfjw    |Eiffel 65 - Blue (KNY Factory Remix)                            |
-2.     |https://www.youtube.com/watch?v=68ugkg9RePc    |Eiffel 65 - Blue (KNY Factory Remix)                            |
-3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
-3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
-3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
-3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
-3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
-3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
-3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
-3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
-3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
-3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
-3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
-3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
-3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
-3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
-3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
-3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                    |
+______________________________________________________________________________________________________________________
+No. Ref|Link:                                          |Song Name:                                                   |
+       |                                               |                                                             |
+1.     |https://www.youtube.com/watch?v=pVLmZMjxfjw    |Eiffel 65 - Blue (KNY Factory Remix)                         |
+2.     |https://www.youtube.com/watch?v=68ugkg9RePc    |Eiffel 65 - Blue (KNY Factory Remix)                         |
+3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                 |
+4.     |https://www.youtube.com/watch?v=YJVmu6yttiw    |Skrillex - Bangarang feat. Sirah                             |
+5.     |https://www.youtube.com/watch?v=WSeNSzJ2-Jw    |Skrillex - Scary Monsters And Nice Sprites                   |
+6.     |https://www.youtube.com/watch?v=F21aifX0lZY    |Skrillex - Kill Everybody                                    |
+7.     |https://www.youtube.com/watch?v=OQIjGh9s4eg    |Skrillex - Kill Everybody                                    |
+8.     |https://www.youtube.com/watch?v=2cXDgFwE13g    |Skrillex - First Of The Year (Equinox)                       |
+9.     |https://www.youtube.com/watch?v=GiyAJxacEo0    |Benny Benassi ft. Gary Go - Cinema (Skrillex Remix)          |
+10.    |https://www.youtube.com/watch?v=MITA4FhVjDc    |Levels by Avicii (Skrillex Remix)                            |
+11.    |https://www.youtube.com/watch?v=BGpzGu9Yp6Y    |Skrillex & Damian "Jr. Gong" Marley - Make It Bun Dem        |
+12.    |https://www.youtube.com/watch?v=BUULBlDcju4    |Skrillex & The Doors - Breakn' A Sweat                       |
+13.    |https://www.youtube.com/watch?v=eOofWzI3flA    |Skrillex - Rock n Roll                                       |
+14.    |https://www.youtube.com/watch?v=vZv9-TWdBJM    |Dr. Dre - The Next Episode (San Holo Remix)                  |
+15.    |https://www.youtube.com/watch?v=oIwFJNguQgY    |Yellow Claw - Shotgun ft. Rochelle                           |
+16.    |https://www.youtube.com/watch?v=Kmj2tGZS7Ic    |Yellow Claw - Shotgun ft. Rochelle                           |
+17.    |https://www.youtube.com/watch?v=Fczta5pF7-A    |Yellow Claw - Shotgun ft. Rochelle                           |
+18.    |https://www.youtube.com/watch?v=bM7SZ5SBzyY    |Alan Walker - Fade                                           |
+19.    |https://www.youtube.com/watch?v=FjNdYp2gXRY    |Ahrix - Nova                                                 |
+20.    |https://www.youtube.com/watch?v=AOeY-nDp7hI    |Alan Walker - Spectre                                        |
+
+
+21.    |https://www.youtube.com/watch?v=YJVmu6yttiw    |Skrillex - Bangarang feat. Sirah                             |
+
+
+22.    |https://www.youtube.com/watch?v=YJVmu6yttiw    |Skrillex - Bangarang feat. Sirah                             |
+22.    |https://www.youtube.com/watch?v=YJVmu6yttiw    |Skrillex - Bangarang feat. Sirah                             |
+22.    |https://www.youtube.com/watch?v=YJVmu6yttiw    |Skrillex - Bangarang feat. Sirah                             |
