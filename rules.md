@@ -6,7 +6,7 @@ Rules:
 <li> If a song is longer than 10 minutes it will automatically be skipped by the bot. </li>
 <li> Autojoin should not ever be used, unless you are still being active in chat. </li>
 <li> Avoid playing songs in the "dj history", you can be skipped for this. </li>
-<li> Do not promote and/or share links for other communities in chat! </li>
+<li> Do not mention/promote and or share links for other communities in chat! </li>
 <li> Changing a song title to make it misleading is not condoned. </li>
 <li> Please don't beg to be part of the community staff. </li>
 <li> Autoreply and autochat scripts are not allowed. </li>
