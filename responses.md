@@ -73,3 +73,7 @@
 ##### vanic x major lazer x wildbelle - be together and also Flux pavilion - exostomp (diskord remix)My genital warts sting
 
 ##### My genital warts sting
+
+##### YES!! NONE OF THE SONGS ON THE OP LIST ARE ACTUALLY OP!!!!!!!!!!!!!!!!!!!
+
+##### ALL OF THE SONGS ARE NOT OP!!!!!!!!!!!
