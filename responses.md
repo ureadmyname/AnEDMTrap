@@ -77,3 +77,17 @@
 ##### YES!! NONE OF THE SONGS ON THE OP LIST ARE ACTUALLY OP!!!!!!!!!!!!!!!!!!!
 
 ##### ALL OF THE SONGS ARE NOT OP!!!!!!!!!!!
+
+##### tomsize & simeon - jump
+
+##### A LOT!!!! NONE OF THE OP SOGNS WERE EVER ACTUALLY PLAYED
+
+##### that rap shit
+
+##### Cash Cash - Overtime 
+
+##### TNGHT- Goooo
+
+##### My weewee came off
+
+##### Galantis - Runaway (U & I) (Konstantin Zandelin Remix) 
