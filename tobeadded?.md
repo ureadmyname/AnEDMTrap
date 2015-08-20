@@ -61,3 +61,40 @@
 ##### Tristam & Braken - Frame of Mind
 
 ##### Zedd - Beautiful Now (Audio) ft. Jon Bellion
+
+##### 
+
+##### 
+
+##### 
+
+##### 
+
+##### 
+
+##### 
+Harder,better,faster,stronger - Daft Punk (any remix)
+Knife party - Internet friends
+Knife party - Bonfire
+Knife Party - Where are u now
+Krewella - Come & Get it (Any remix )
+Krewella - Can't control myself (Any remix )
+Krewella - Human Martin Garrix - Animals
+Turn down for what - Dj snake ( Any remix)
+Avicii - Levels
+Calvin Harris - Summer
+Chainsmokers - Selfies
+I can't stop - Flux pavillon
+Modestep - Sunlight
+David Guetta - Hey Mama (Official Video) ft Nicki Minaj, Bebe Rexha & Afrojack 
+Benny Bennassi - Satisfaction
+Diplo - Revolution ( any remix)
+Glantis - Peanut Butter Jelly
+SeanCeol - Swing It Everything by Mr. Polska
+that Davoodi plays Rae Sremmurd - No Type
+Everything Nightcore Flight Facilities
+TJR - What's Up Suckaz
+Blackstripe - Boobs
+Zomboy - Beast In The Belly
+Vanic x K.Flay - Make Me Fade
+Shirobon - Running My Head (feat. Camden Cox)
