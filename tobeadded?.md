@@ -4,6 +4,14 @@
 
 ##### Any Legend of Zelda main theme remixes
 
+##### Avicii - Levels
+
+##### Benny Bennassi - Satisfaction
+
+##### Blackstripe - Boobs
+
+##### Calvin Harris - Summer
+
 ##### cash cash - i like it loud
 
 ##### Cash Cash - Michael Jackson
@@ -12,7 +20,11 @@
 
 ##### Cazzette- Beam Me Up
 
+##### Chainsmokers - Selfies
+
 ##### Coldplay - Fix You (Collin McLoughlin Remix)
+
+##### David Guetta - Hey Mama (Official Video) ft Nicki Minaj, Bebe Rexha & Afrojack 
 
 ##### Deorro - Five Hours (Static Video) [LE7ELS] 
 
@@ -20,17 +32,25 @@
 
 ##### Diplo - Boy Oh Boy
 
+##### Diplo - Revolution ( any remix)
+
 ##### Ellie Goulding - Gold Dust
 
 ##### Fetty Wap - Trap Queen (Crankdat Remix)
 
 ##### Flo Rida - GDFR (K Theory Remix)
 
+##### Galantis - Peanut Butter Jelly
+
 ##### Galantis - Runaway (U & I) (Konstantin Zandelin Remix)
 
 ##### Galantis- You
 
+##### Harder,better,faster,stronger - Daft Punk (any remix)
+
 ##### hellberg - the girl and all remixes
+
+##### I can't stop - Flux pavillon
 
 ##### Jay-Z & Kanye West - Niggas In Paris (Onderkoffer Remix)
 
@@ -40,19 +60,41 @@
 
 ##### Kdrew - Circles
 
+##### Knife party - Bonfire
+
+##### Knife party - Internet friends
+
+##### Knife Party - Where are u now
+
+##### Krewella - Can't control myself (Any remix )
+
+##### Krewella - Come & Get it (Any remix )
+
+##### Krewella - Human Martin Garrix - Animals
+
 ##### Lean On, major lazer
 
 ##### Major Lazer - Be Together (feat. Wild Belle) (Vanic Remix) 
 
 ##### Mako Our Story
 
+##### Modestep - Sunlight
+
 ##### OMFG - I Love You
 
 ##### Radioactive (Synchronice Dubstep Remix) - Imagine Dragons
 
+##### Rae Sremmurd - No Type
+
+##### SeanCeol - Swing It Everything by Mr. Polska
+
+##### Shirobon - Running My Head (feat. Camden Cox)
+
 ##### Spag Heddy - Love On First Sine
 
 ##### Sun Is Shining (Original Mix) - Axwell & Ingrosso
+
+##### TJR - What's Up Suckaz
 
 ##### The girl - Hellberg #AnyRemixes
 
@@ -60,41 +102,8 @@
 
 ##### Tristam & Braken - Frame of Mind
 
+##### Vanic x K.Flay - Make Me Fade
+
 ##### Zedd - Beautiful Now (Audio) ft. Jon Bellion
 
-##### 
-
-##### 
-
-##### 
-
-##### 
-
-##### 
-
-##### 
-Harder,better,faster,stronger - Daft Punk (any remix)
-Knife party - Internet friends
-Knife party - Bonfire
-Knife Party - Where are u now
-Krewella - Come & Get it (Any remix )
-Krewella - Can't control myself (Any remix )
-Krewella - Human Martin Garrix - Animals
-Turn down for what - Dj snake ( Any remix)
-Avicii - Levels
-Calvin Harris - Summer
-Chainsmokers - Selfies
-I can't stop - Flux pavillon
-Modestep - Sunlight
-David Guetta - Hey Mama (Official Video) ft Nicki Minaj, Bebe Rexha & Afrojack 
-Benny Bennassi - Satisfaction
-Diplo - Revolution ( any remix)
-Glantis - Peanut Butter Jelly
-SeanCeol - Swing It Everything by Mr. Polska
-that Davoodi plays Rae Sremmurd - No Type
-Everything Nightcore Flight Facilities
-TJR - What's Up Suckaz
-Blackstripe - Boobs
-Zomboy - Beast In The Belly
-Vanic x K.Flay - Make Me Fade
-Shirobon - Running My Head (feat. Camden Cox)
+##### Zomboy - Beast In The Belly
