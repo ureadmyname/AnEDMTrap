@@ -10,7 +10,7 @@ Rules:
 <li> Changing a song title to make it misleading is not condoned. </li>
 <li> Please don't beg to be part of the community staff. </li>
 <li> Autoreply and autochat scripts are not allowed. </li>
-<li> No ear rape songs or not songs are allowed </li>
+<li> No ear rape songs or not songs are allowed. </li>
 <li> Please do not spam commands to the bot. </li>
 <li> Do not ask for Gifts. </li>
 </ol>
