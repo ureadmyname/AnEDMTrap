@@ -13,11 +13,13 @@
 ### Managers
 ###### AriaOfTheElements
 
-###### Austin0315
-
 ###### DJ Surprise
 
-###### George Jordan
+###### EʟᴇᴄᴛʀɪᴄBʟᴀᴋᴇ
+
+###### iBass
+
+###### K1tt
 
 ###### qtbot
 
@@ -27,20 +29,22 @@
 
 ###### streetlight
 
-###### xTres12
+###### Zevo
 
 ### Bouncers
+###### akaClarity
+
 ###### Ancat
 
-###### DiamondVoid
+###### Austin0315
 
 ###### dimdamian
 
-###### Dєlayed
-
 ###### Ehere (Eric)
 
-###### Jazzywinks
+###### George Jordan
+
+###### Lactem
 
 ###### LAXDEFENDER-28
 
@@ -50,31 +54,43 @@
 
 ###### reojin
 
+###### RobGoldy
+
+###### Sdeko4
+
 ###### SirBoss
 
-###### ℱɪɪø
+###### worldwanderer121
+
+###### xTres12
+
+###### Ḏḯαღøᾔ∂✔ø☤ḓ
 
 ### Resident Djs
+###### -NAGA-
+
 ###### aviloSC2
 
 ###### Babycakeswaffle
 
 ###### BlacKJeT886
 
+###### digdoug006
+
 ###### djrockstar
+
+###### Eureka Scarface
 
 ###### finnb
 
-###### I Is Velocity
-
 ###### iDarqi
 
-###### Jayboymuir
+###### Jazzywinks
 
-###### RobGoldy
+###### TDGDerp
+
+###### trilly
 
 ###### vinylAngel
 
 ###### waterhorse
-
-###### ıllıllı ΛLXX ıllıllı
