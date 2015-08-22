@@ -73,4 +73,17 @@ No. Ref|Link:                                          |Song Name:              
 65.    |https://www.youtube.com/watch?v=n4tK7LYFxI0    |Spektrem - Shine                                             |
 66.    |https://www.youtube.com/watch?v=-WuU-ZhjvOc    |DJ Snake & Lil Jon - Turn Down For What (Onderkoffer Remix)  |
 67.    |https://www.youtube.com/watch?v=y6120QOlsfU    |Darude - Sandstorm                                           |
-_____________________________________________________________________________________________________________________|
+68.    |https://www.youtube.com/watch?v=_ovdm2yX4MA    |Avicii - Levels                                              |
+69.    |https://www.youtube.com/watch?v=iw4oRym4HSM    |Avicii - Levels                                              |
+70.    |https://www.youtube.com/watch?v=dP6R-fSoFII    |Avicii - Levels                                              |
+71.    |https://www.youtube.com/watch?v=9V9ILGzSQS4    |Avicii - Levels                                              |
+72.    |https://www.youtube.com/watch?v=WO1L5M5yxXw    |Avicii - Levels                                              |
+73.    |https://www.youtube.com/watch?v=O_SNQh6zuQo    |Avicii - Levels                                              |
+74.    |https://www.youtube.com/watch?v=V5bYDhZBFLA    |Benny Benassi - Satisfaction                                 |
+75.    |https://www.youtube.com/watch?v=r838pJCS2o0    |Benny Benassi - Satisfaction                                 |
+76.    |https://www.youtube.com/watch?v=BH3MyvaLp3U    |Benny Benassi - Satisfaction                                 |
+77.    |https://www.youtube.com/watch?v=b8qBUza1pO0    |Benny Benassi - Satisfaction                                 |
+78.    |https://www.youtube.com/watch?v=qW7OiyPpVEU    |Benny Benassi - Satisfaction                                 |
+79.    |https://www.youtube.com/watch?v=i9cwk1cbd_Q    |Benny Benassi - Satisfaction                                 |
+79.    |https://www.youtube.com/watch?v=sOwG9d4W8oY    |Benny Benassi - Satisfaction                                 |
+ ____________________________________________________________________________________________________________________|
