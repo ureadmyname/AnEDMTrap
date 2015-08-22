@@ -5,7 +5,7 @@ https://github.com/ureadmyname/basicBot-customization/blob/master/ExampleOPlist.
 
 ______________________________________________________________________________________________________________________
 No. Ref|Link:                                          |Song Name:                                                   |
-       |                                               |                                                             |
+|       |                                               |                                                            |
 1.     |https://www.youtube.com/watch?v=pVLmZMjxfjw    |Eiffel 65 - Blue (KNY Factory Remix)                         |
 2.     |https://www.youtube.com/watch?v=68ugkg9RePc    |Eiffel 65 - Blue (KNY Factory Remix)                         |
 3.     |https://www.youtube.com/watch?v=Bznxx12Ptl0    |AronChupa - I'm an Albatraoz                                 |
@@ -85,5 +85,36 @@ No. Ref|Link:                                          |Song Name:              
 77.    |https://www.youtube.com/watch?v=b8qBUza1pO0    |Benny Benassi - Satisfaction                                 |
 78.    |https://www.youtube.com/watch?v=qW7OiyPpVEU    |Benny Benassi - Satisfaction                                 |
 79.    |https://www.youtube.com/watch?v=i9cwk1cbd_Q    |Benny Benassi - Satisfaction                                 |
-79.    |https://www.youtube.com/watch?v=sOwG9d4W8oY    |Benny Benassi - Satisfaction                                 |
+80.    |https://www.youtube.com/watch?v=sOwG9d4W8oY    |Benny Benassi - Satisfaction                                 |
+81.    |https://www.youtube.com/watch?v=FgWS7_CVTyw    |Cash Cash - Michael Jackson                                  |
+82.    |https://www.youtube.com/watch?v=CZDqzXDMtJE    |Cash Cash - Michael Jackson                                  |
+83.    |https://www.youtube.com/watch?v=UrsZnUlMuKU    |Cash Cash - Michael Jackson                                  |
+84.    |https://www.youtube.com/watch?v=WRpvkGL3hQk    |Cash Cash - Michael Jackson                                  |
+85.    |https://www.youtube.com/watch?v=ES5VpGOXfRs    |Cash Cash - Michael Jackson                                  |
+86.    |https://www.youtube.com/watch?v=H2SnNZT4lJk    |Cash Cash - Michael Jackson                                  |
+87.    |https://www.youtube.com/watch?v=85ftfVUTzM4    |Cash Cash - Overtime                                         |
+88.    |https://www.youtube.com/watch?v=1lMVYkT03V0    |Cash Cash - Overtime                                         |
+89.    |https://www.youtube.com/watch?v=eBApRi_1DUc    |Cash Cash - Overtime                                         |
+90.    |https://www.youtube.com/watch?v=44ZqCEH1-XE    |Cash Cash - Overtime                                         |
+91.    |https://www.youtube.com/watch?v=BAoErELBzYM    |Cash Cash - Overtime                                         |
+92.    |https://www.youtube.com/watch?v=mp-IZEFqrG0    |Cazzette - Beam Me Up                                        |
+93.    |https://www.youtube.com/watch?v=N2TzRqM2fKw    |Cazzette - Beam Me Up                                        |
+94.    |https://www.youtube.com/watch?v=7QODOX7JNLk    |Cazzette - Beam Me Up                                        |
+95.    |https://www.youtube.com/watch?v=kdemFfbS5H0    |The Chainsmokers - #SELFIE                                   |
+96.    |https://www.youtube.com/watch?v=ZuwfZGDWOio    |The Chainsmokers - #SELFIE                                   |
+97.    |https://www.youtube.com/watch?v=q7A6-Uyex8M    |The Chainsmokers - #SELFIE                                   |
+98.    |https://www.youtube.com/watch?v=jpPwVodYgkI    |The Chainsmokers - #SELFIE                                   |
+99.    |https://www.youtube.com/watch?v=uO59tfQ2TbA    |David Guetta - Hey Mama ft Nicki Minaj, Bebe Rexha & Afrojack|
+100.   |https://www.youtube.com/watch?v=SO5HTgNZg_g    |David Guetta - Hey Mama ft Nicki Minaj, Bebe Rexha & Afrojack|
+101.   |https://www.youtube.com/watch?v=KI6QH2b4fT8    |David Guetta - Hey Mama ft Nicki Minaj, Bebe Rexha & Afrojack|
+102.   |https://www.youtube.com/watch?v=JC1ncyoYYjA    |David Guetta - Hey Mama ft Nicki Minaj, Bebe Rexha & Afrojack|
+103.   |https://www.youtube.com/watch?v=K_yBUfMGvzc    |Deorro - Five Hours                                          |
+104.   |https://www.youtube.com/watch?v=kMXxLFlnlic    |Deorro - Five Hours                                          |
+105.   |https://www.youtube.com/watch?v=MF6JvbfYI-8    |Deorro - Five Hours                                          |
+106.   |https://www.youtube.com/watch?v=o7V8dQqB6qk    |Deorro - Five Hours                                          |
+107.   |https://www.youtube.com/watch?v=_fuQge1DS7M    |Deorro - Five Hours                                          |
+108.   |https://www.youtube.com/watch?v=fhPTqbAfels    |Deorro - Five Hours                                          |
+109.   |https://www.youtube.com/watch?v=jjmct_25TqE    |Deorro - Five Hours                                          |
+110.   |https://www.youtube.com/watch?v=W0AIF9rLqf4    |Deorro - Five Hours                                          |
+111.   |https://www.youtube.com/watch?v=Zy7kEG6g0rk    |Deorro - Five Hours                                          |
  ____________________________________________________________________________________________________________________|
