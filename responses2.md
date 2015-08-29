@@ -1,6 +1,14 @@
 ## Are there any songs on the OP list that you think should be removed?
 https://github.com/ureadmyname/basicBot-customization/blob/master/skiplists.md
 
+##### Vanic x K.Flay - Make Me Fade (unbanned)
+
+##### Dillon Francis & DJ Snake - Get Low (2 votes)
+
+##### Virtual Riot - Idols (EDM Mashup) (2 votes)
+
+##### Skrillex - Rock n Roll (2 votes)
+
 ##### Dr. Dre - The Next Episode (San Holo Remix)
 
 ##### Bobby Shmurda - Hot Nigga (Caked Up Remix) 
@@ -17,17 +25,11 @@ https://github.com/ureadmyname/basicBot-customization/blob/master/skiplists.md
 
 ##### Galantis - Runaway (U & I)
 
-##### Dillon Francis & DJ Snake - Get Low (2 votes)
-
-##### Virtual Riot - Idols (EDM Mashup) (2 votes)
-
-##### Skrillex - Rock n Roll (2 votes)
-
 ##### dum dee dum jikay remix
 
 ##### Yellow Claw - Shotgun ft. Rochelle
 
-##### Ye. Gold Dust. It's a bae...atleast the original one is not OP. Fluxy's remix is OP
+##### Gold Dust. It's a bae...atleast the original one is not OP. Fluxy's remix is OP
 
 ##### OMFG - Hello
 
@@ -36,5 +38,3 @@ https://github.com/ureadmyname/basicBot-customization/blob/master/skiplists.md
 ##### Martin Garrix - Animals
 
 ##### Avicii - Levels
-
-##### Vanic x K.Flay - Make Me Fade (unbanned)
