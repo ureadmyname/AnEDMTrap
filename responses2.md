@@ -5,22 +5,22 @@ https://github.com/ureadmyname/basicBot-customization/blob/master/skiplists.md
 
 ##### DJ Fresh - Gold Dust (unbanned)
 
-##### Dillon Francis & DJ Snake - Get Low (2 votes) (27 million views)
+##### Dillon Francis & DJ Snake - Get Low (2 votes) (unbanned)
 
-##### Virtual Riot - Idols (EDM Mashup) (2 votes) (10 million views)
+##### Virtual Riot - Idols (EDM Mashup) (2 votes) (unbanned)
 
-##### Skrillex - Rock n Roll (2 votes) (105 million views)
+##### Skrillex - Rock n Roll (2 votes) (unbanned)
 
-##### TheFatRat - Windfall (4.8 million views)
+##### TheFatRat - Windfall (unbanned)
 
-##### Bobby Shmurda - Hot Nigga (Caked Up Remix) (7.9 million views)
+##### Tobu - Hope (unbanned)
+
+##### Disfigure - Blank (unbanned)
+
+##### Spektrem - Shine (unbanned)
+
+##### dum dee dum jikay remix (unbanned)
 
 ##### TheFatRat - Unity (9 million views)
 
-##### Tobu - Hope (10 million views)
-
-##### Disfigure - Blank (11.2 million views)
-
-##### Spektrem - Shine (13.8 million views)
-
-##### dum dee dum jikay remix (32 million views)
+##### Bobby Shmurda - Hot Nigga (Caked Up Remix) (7.9 million views)
