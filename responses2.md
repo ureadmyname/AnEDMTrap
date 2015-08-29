@@ -9,7 +9,7 @@ https://github.com/ureadmyname/basicBot-customization/blob/master/skiplists.md
 
 ##### Virtual Riot - Idols (EDM Mashup) (2 votes) (10 million views)
 
-##### Skrillex - Rock n Roll (2 votes)
+##### Skrillex - Rock n Roll (2 votes) (105 million views)
 
 ##### TheFatRat - Windfall (4.8 million views)
 
