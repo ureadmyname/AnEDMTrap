@@ -3,38 +3,24 @@ https://github.com/ureadmyname/basicBot-customization/blob/master/skiplists.md
 
 ##### Vanic x K.Flay - Make Me Fade (unbanned)
 
-##### Dillon Francis & DJ Snake - Get Low (2 votes)
+##### DJ Fresh - Gold Dust (unbanned)
 
-##### Virtual Riot - Idols (EDM Mashup) (2 votes)
+##### Dillon Francis & DJ Snake - Get Low (2 votes) (27 million views)
+
+##### Virtual Riot - Idols (EDM Mashup) (2 votes) (10 million views)
 
 ##### Skrillex - Rock n Roll (2 votes)
 
-##### Dr. Dre - The Next Episode (San Holo Remix)
+##### TheFatRat - Windfall (4.8 million views)
 
-##### Bobby Shmurda - Hot Nigga (Caked Up Remix) 
+##### Bobby Shmurda - Hot Nigga (Caked Up Remix) (7.9 million views)
 
-##### Disfigure - Blank
+##### TheFatRat - Unity (9 million views)
 
-##### Spektrem - Shine
+##### Tobu - Hope (10 million views)
 
-##### TheFatRat - Unity
+##### Disfigure - Blank (11.2 million views)
 
-##### TheFatRat - Windfall
+##### Spektrem - Shine (13.8 million views)
 
-##### Tobu - Hope
-
-##### Galantis - Runaway (U & I)
-
-##### dum dee dum jikay remix
-
-##### Yellow Claw - Shotgun ft. Rochelle
-
-##### Gold Dust. It's a bae...atleast the original one is not OP. Fluxy's remix is OP
-
-##### OMFG - Hello
-
-##### Effiel 64 Blue
-
-##### Martin Garrix - Animals
-
-##### Avicii - Levels
+##### dum dee dum jikay remix (32 million views)
