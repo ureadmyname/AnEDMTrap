@@ -10,15 +10,11 @@
 
 ##### Dimitri Vegas, Martin Garrix, Like Mike - Tremor
 
-##### Keys N Krates - Dum Dee Dum
-
 ##### M4SONIC - Weapon (Live Launchpad Mashup)
 
 ##### M4SONIC - Virus (Live Launchpad Original)
 
-##### Radioactive (Synchronice Remix) - Imagine Dragons
-
-##### Imagine Dragons - Radioactive (Synchronice Remix)
+##### Radioactive (Synchronice Remix) - Imagine Dragons (2 votes)
 
 ##### Mako - Smoke Filled Room
 
