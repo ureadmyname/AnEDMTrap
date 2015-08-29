@@ -11,8 +11,6 @@
 ###### Ureadmyname
 
 ### Managers
-###### Ancat
-
 ###### AriaOfTheElements
 
 ###### DJ Surprise
@@ -30,8 +28,13 @@
 ###### streetlight
 
 ### Bouncers
+###### Ancat
 
 ###### Austin0315
+
+###### Babycakeswaffle
+
+###### finnb
 
 ###### George Jordan
 
@@ -42,8 +45,6 @@
 ###### PandaPropaganda
 
 ###### reojin
-
-###### RobGoldy
 
 ###### Sdeko4
 
@@ -56,11 +57,11 @@
 ### Resident Djs
 ###### -NAGA-
 
+###### AAN6
+
 ###### AkaMagician
 
 ###### aviloSC2
-
-###### Babycakeswaffle
 
 ###### BlacKJeT886
 
@@ -70,11 +71,9 @@
 
 ###### Eureka Scarface
 
-###### finnb
-
-###### iDarqi
-
 ###### Jazzywinks
+
+###### MasterOfMystery
 
 ###### Singer
 
