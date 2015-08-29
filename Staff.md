@@ -11,13 +11,13 @@
 ###### Ureadmyname
 
 ### Managers
+###### Ancat
+
 ###### AriaOfTheElements
 
 ###### DJ Surprise
 
 ###### EʟᴇᴄᴛʀɪᴄBʟᴀᴋᴇ
-
-###### iBass
 
 ###### K1tt
 
@@ -29,18 +29,9 @@
 
 ###### streetlight
 
-###### Zevo
-
 ### Bouncers
-###### akaClarity
-
-###### Ancat
 
 ###### Austin0315
-
-###### dimdamian
-
-###### Ehere (Eric)
 
 ###### George Jordan
 
@@ -49,8 +40,6 @@
 ###### LAXDEFENDER-28
 
 ###### PandaPropaganda
-
-###### Phoenix Of Fire
 
 ###### reojin
 
@@ -64,10 +53,10 @@
 
 ###### xTres12
 
-###### Ḏḯαღøᾔ∂✔ø☤ḓ
-
 ### Resident Djs
 ###### -NAGA-
+
+###### AkaMagician
 
 ###### aviloSC2
 
@@ -87,10 +76,6 @@
 
 ###### Jazzywinks
 
+###### Singer
+
 ###### TDGDerp
-
-###### trilly
-
-###### vinylAngel
-
-###### waterhorse
