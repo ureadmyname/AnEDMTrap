@@ -25,46 +25,10 @@ https://github.com/ureadmyname/basicBot-customization/blob/master/skiplists.md
 
 ##### Virtual Riot - Idols (EDM Mashup)
 
-##### 
+##### Martin Garrix - Animals
 
-##### 
+#####  	Avicii - Levels
 
-##### 
+##### Vanic x K.Flay - Make Me Fade
 
-##### 
-
-##### 
-
-##### 
-
-##### 
-
-##### 
-
-##### 
-
-##### 
-
-##### 
-
-##### 
-
-##### 
-
-##### 
-
-##### 
-
-##### 
-
-##### 
-
-##### 
-
-##### 
-
-##### 
-
-##### 
-
-##### 
+##### Vanic x K.Flay - Make Me Fade
