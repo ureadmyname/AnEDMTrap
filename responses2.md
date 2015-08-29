@@ -21,6 +21,6 @@ https://github.com/ureadmyname/basicBot-customization/blob/master/skiplists.md
 
 ##### dum dee dum jikay remix (unbanned)
 
-##### TheFatRat - Unity (9 million views)
+##### Bobby Shmurda - Hot Nigga (Caked Up Remix) (unbanned)
 
-##### Bobby Shmurda - Hot Nigga (Caked Up Remix) (7.9 million views)
+##### TheFatRat - Unity (keeping OP i think)
