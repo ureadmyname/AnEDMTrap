@@ -3,32 +3,38 @@ https://github.com/ureadmyname/basicBot-customization/blob/master/skiplists.md
 
 ##### Dr. Dre - The Next Episode (San Holo Remix)
 
-##### 6. Bobby Shmurda - Hot Nigga (Caked Up Remix) 15. Disfigure - Blank 35. Spektrem - Shine 37. TheFatRat - Unity 38. TheFatRat - Windfall 39. Tobu - Hope
+##### Bobby Shmurda - Hot Nigga (Caked Up Remix) 
 
-##### Galantis - Runaway (U & I) Dillon Francis & DJ Snake - Get Low Virtual Riot - Idols (EDM Mashup) 
+##### Disfigure - Blank
 
-##### Skrillex - Rock n Roll
+##### Spektrem - Shine
 
-##### dum dee dum
+##### TheFatRat - Unity
+
+##### TheFatRat - Windfall
+
+##### Tobu - Hope
+
+##### Galantis - Runaway (U & I)
+
+##### Dillon Francis & DJ Snake - Get Low (2 votes)
+
+##### Virtual Riot - Idols (EDM Mashup) (2 votes)
+
+##### Skrillex - Rock n Roll (2 votes)
+
+##### dum dee dum jikay remix
 
 ##### Yellow Claw - Shotgun ft. Rochelle
 
 ##### Ye. Gold Dust. It's a bae...atleast the original one is not OP. Fluxy's remix is OP
 
-##### Skrillex - Rock n Roll
-
-##### get low from francis dillon
-
 ##### OMFG - Hello
 
 ##### Effiel 64 Blue
 
-##### Virtual Riot - Idols (EDM Mashup)
-
 ##### Martin Garrix - Animals
 
-#####  	Avicii - Levels
+##### Avicii - Levels
 
-##### Vanic x K.Flay - Make Me Fade
-
-##### Vanic x K.Flay - Make Me Fade
+##### Vanic x K.Flay - Make Me Fade (unbanned)
