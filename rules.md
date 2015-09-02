@@ -12,5 +12,6 @@ Rules:
 <li> Autoreply and autochat scripts are not allowed. </li>
 <li> No ear rape songs or not songs are allowed. </li>
 <li> Please do not spam commands to the bot. </li>
+<li> Do not spam the "meh" button. </li>
 <li> Do not ask for Gifts. </li>
 </ol>
