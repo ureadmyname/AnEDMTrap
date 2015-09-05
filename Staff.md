@@ -34,6 +34,8 @@
 
 ###### Babycakeswaffle
 
+###### digdoug006
+
 ###### finnb
 
 ###### George Jordan
@@ -55,8 +57,6 @@
 ###### xTres12
 
 ### Resident Djs
-###### -NAGA-
-
 ###### AAN6
 
 ###### AkaMagician
@@ -65,15 +65,17 @@
 
 ###### BlacKJeT886
 
-###### digdoug006
-
 ###### djrockstar
 
 ###### Eureka Scarface
 
+###### GrandmaJam
+
 ###### Jazzywinks
 
 ###### MasterOfMystery
+
+###### MotherBrainfart
 
 ###### Singer
 
