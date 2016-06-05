@@ -6,16 +6,18 @@
 ###### QTπ
 
 ### Co-Hosts
-###### Cowdeer
+###### AriaOfElements
 
-###### Ureadmyname
+###### ureadmyname
 
 ### Managers
-###### AriaOfTheElements
+###### Ancat
 
-###### DJ Surprise
+###### d(O_O)b
 
 ###### EʟᴇᴄᴛʀɪᴄBʟᴀᴋᴇ
+
+###### George | Azeria
 
 ###### K1tt
 
@@ -25,10 +27,8 @@
 
 ###### sharlike
 
-###### streetlight
-
 ### Bouncers
-###### Ancat
+###### N¡gh†m∆resAnd8Ø8s
 
 ###### Austin0315
 
@@ -36,47 +36,117 @@
 
 ###### digdoug006
 
-###### finnb
+###### DJ Surprise
 
-###### George Jordan
+###### Dj-Eimax
 
-###### Lactem
+###### djmonstercat
+
+###### djrockstar
+
+###### fatboysraidmcdonalds
+
+###### FIRE. BL∆STΛ.
+
+###### Flakeburst
+
+###### FluxKibbles
+
+###### iBMz
+
+###### KiDSupra
+
+###### Lady Gaussian
 
 ###### LAXDEFENDER-28
+
+###### Mrs. Marloes
 
 ###### PandaPropaganda
 
 ###### reojin
 
+###### Roent Dune
+
+###### RuperT2
+
 ###### Sdeko4
 
+###### sharkbot
+
 ###### SirBoss
+
+###### streetlight
+
+###### TheDarkRose1337
 
 ###### worldwanderer121
 
 ###### xTres12
 
+###### ÐЇѦ♏ϴИÐⅤϴЇḎ
+
 ### Resident Djs
+###### -NAGA-
+
+###### 2nd
+
 ###### AAN6
 
-###### AkaMagician
+###### ArlingtonSenpai
 
 ###### aviloSC2
 
+###### AxEl99Pr0
+
+###### Baconswageggs420
+
+###### BijuuMode
+
+###### Bjarke_ki
+
 ###### BlacKJeT886
 
-###### djrockstar
+###### Blood Rain
+
+###### dcarr95
+
+###### EDMLobby DJFoxy [HPR DJ] 
 
 ###### Eureka Scarface
 
+###### Everrn
+
+###### FLAGZ
+
+###### Fxuz
+
+###### giourgen01
+
 ###### GrandmaJam
+
+###### Hoodstomp
+
+###### I FUCKED A CACTUS
+
+###### Ijinox
 
 ###### Jazzywinks
 
+###### JustNeptune
+
+###### LactemJr
+
 ###### MasterOfMystery
 
-###### MotherBrainfart
+###### Morganwrecks
 
-###### Singer
+###### Prophesier | TrapCity
+
+###### StainZ
 
 ###### TDGDerp
+
+###### YungLu
+
+###### ︻╦╤─ⱣØⱢ∆Я₲Ø∆₮─╤╦︻ 
