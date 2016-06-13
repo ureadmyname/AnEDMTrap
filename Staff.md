@@ -11,13 +11,21 @@
 ###### Ureadmyname
 
 ### Managers
+###### Ancat
+
 ###### AriaOfTheElements
 
 ###### DJ Surprise
 
+###### d(0_0)b
+
 ###### EʟᴇᴄᴛʀɪᴄBʟᴀᴋᴇ
 
+###### George | Azeria
+
 ###### K1tt
+
+###### Lactem
 
 ###### qtbot
 
@@ -25,26 +33,26 @@
 
 ###### sharlike
 
-###### streetlight
-
 ### Bouncers
-###### Ancat
+###### -NAGA-
 
 ###### Austin0315
 
 ###### Babycakeswaffle
 
-###### digdoug006
+###### BeastmodeTDT
 
-###### finnb
+###### djmonstercat
 
-###### George Jordan
+###### fatboysraidmcdonalds
 
-###### Lactem
+###### Flakeburst
 
-###### LAXDEFENDER-28
+###### FluxKibbles
 
-###### PandaPropaganda
+###### Geem
+
+###### Mrs. Marloes
 
 ###### reojin
 
@@ -54,29 +62,41 @@
 
 ###### worldwanderer121
 
-###### xTres12
+###### Worm Zevo
+
+###### z i g g y
+
+###### ÐЇѦ♏ϴИÐⅤϴЇḎ
 
 ### Resident Djs
 ###### AAN6
 
-###### AkaMagician
-
 ###### aviloSC2
 
-###### BlacKJeT886
+###### Bertle
 
-###### djrockstar
+###### Bjarke_ki
 
-###### Eureka Scarface
+###### Cullimore
 
-###### GrandmaJam
+###### DJ Surprise
+
+###### DjKappaPride
+
+###### FLAGZ
+
+###### Fxuz
+
+###### imnoris
 
 ###### Jazzywinks
 
-###### MasterOfMystery
+###### Lashafan1234
 
-###### MotherBrainfart
-
-###### Singer
+###### streetlight
 
 ###### TDGDerp
+
+###### UBERGU
+
+###### ︻╦╤─ⱣØⱢ∆Я₲Ø∆₮─╤╦︻
