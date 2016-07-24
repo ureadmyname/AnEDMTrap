@@ -8,16 +8,14 @@
 ### Co-Hosts
 ###### Cowdeer
 
-###### Ureadmyname
+###### ureadmyname
 
 ### Managers
-###### Ancat
-
 ###### AriaOfTheElements
 
-###### DJ Surprise
-
 ###### d(0_0)b
+
+###### DJ Surprise
 
 ###### EʟᴇᴄᴛʀɪᴄBʟᴀᴋᴇ
 
@@ -34,42 +32,54 @@
 ###### sharlike
 
 ### Bouncers
-###### -NAGA-
+###### Ancat
 
 ###### Austin0315
 
 ###### Babycakeswaffle
 
-###### BeastmodeTDT
+###### Doctor_Chode
 
-###### djmonstercat
+###### Elegiesッ
 
 ###### fatboysraidmcdonalds
 
 ###### Flakeburst
 
-###### FluxKibbles
+###### imnoris
 
-###### Geem
+###### itchypeeflaps
+
+###### Jazzywinks
+
+###### KA0$
+
+###### LAXDEFENDER-28
+
+###### MixTrack.club
 
 ###### Mrs. Marloes
 
+###### Ms. FluxKibbles
+
+###### RedJack3t
+
 ###### reojin
 
-###### Sdeko4
+###### Sentricity
 
-###### SirBoss
-
-###### worldwanderer121
-
-###### Worm Zevo
-
-###### z i g g y
+###### Zevo
 
 ###### ÐЇѦ♏ϴИÐⅤϴЇḎ
 
+###### ︻╦╤─ⱣØⱢ∆Я₲Ø∆₮─╤╦︻
+
 ### Resident Djs
+###### -px² Mantis
+
 ###### AAN6
+
+###### AkaMagician
 
 ###### aviloSC2
 
@@ -79,24 +89,24 @@
 
 ###### Cullimore
 
-###### DJ Surprise
-
 ###### DjKappaPride
+
+###### Ethan Bradberry
 
 ###### FLAGZ
 
 ###### Fxuz
 
-###### imnoris
+###### iZyko
 
-###### Jazzywinks
+###### Kiss Mike Hunt
 
-###### Lashafan1234
+###### MadamKawaiiPotato
 
-###### streetlight
+###### Red_Ricky
 
-###### TDGDerp
+###### ReverendEntity
 
 ###### UBERGU
 
-###### ︻╦╤─ⱣØⱢ∆Я₲Ø∆₮─╤╦︻
+###### WTayllor
