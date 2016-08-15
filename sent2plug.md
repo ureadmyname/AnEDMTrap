@@ -1,2 +1,3 @@
+||
 |:-----------------------------------:|
 |I had an idea for the extras shop, you can change your name to completely different username for 24,230, what if people don't want to change your username completely but just the capitalization, therefore possibly implement an option to keep your username but just change the capitalization for only half or three quarters of that 12-18k, the biggest reason i believe this is a option that people would use is because if you want to just change the capitalization of your name now, you have to change your name and then change it back costing 48,460 for just a minute difference, anyway just an idea i just had, thanks for reading, am looking forward to your response. :D|
