@@ -5,7 +5,7 @@ Room Rules:
 <li> Songs must be kept under 10 minutes, or they will be autoskipped. </li>
 <li> Do not mention/promote and or share links for other communities. </li>
 <li> Do not use Autojoin unless you are active. </li>
-<li> Avoid playing songs in the "dj history", you can be skipped for this. </li>
+<li> Avoid playing songs in the "DJ History". </li>
 <li> Please don't beg to be part of the community staff. </li>
 <li> Autoreply and autochat scripts are not allowed. </li>
 <li> Ear rape and troll songs will not be tolerated. </li>
